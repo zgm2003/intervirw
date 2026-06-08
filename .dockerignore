@@ -1,0 +1,11 @@
+node_modules/
+.git/
+*.log
+server-smoke.out.log
+server-smoke.err.log
+~$*
+deliverables/
+盲盒样式封面/
+*.doc
+*.docx
+英语盲盒网页demo.html
