@@ -1,0 +1,15 @@
+{
+  "name": "english-blind-box-interview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RESTful API and frontend integration for the English blind box interview task.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

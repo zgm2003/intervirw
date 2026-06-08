@@ -1,0 +1,7 @@
+node_modules/
+*.log
+server-smoke.out.log
+server-smoke.err.log
+~$*
+.DS_Store
+Thumbs.db
